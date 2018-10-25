@@ -1,5 +1,10 @@
 # MultipleMan
 
+<<<<<<< HEAD
+=======
+# WARNING: THIS PROJECT IS NO LONGER MAINTAINED. There will be no future updates unless another maintainer wishes to own it.
+
+>>>>>>> 72d64a735143e269fffc6364b5c0c6da6d05c59a
 [![CircleCI](https://circleci.com/gh/influitive/multiple_man.png)](https://circleci.com/gh/influitive/multiple_man)
 
 MultipleMan synchronizes your ActiveRecord models between Rails
